@@ -1,9 +1,9 @@
 <?php
 /*
 Plugin Name: Update 30X
-Plugin URI: https://github.com/joshp23/YOURLS-Update30X
+Plugin URI: https://github.com/joshp23/YOURLS-Update-30X
 Description: Update a link if a 30X is returned
-Version: 0.0.1
+Version: 0.0.2
 Author: Josh Panter
 Author URI: https://unfettered.net
 */
