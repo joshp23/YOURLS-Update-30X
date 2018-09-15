@@ -3,6 +3,7 @@ Utility to check for endpoint URL redirections and update the long URL in YOURLS
 
 ## Features
 - Can work on individual keywords, domain based long url's, or the entire database
+- Returns number of attempts, successes, failures, and an array of unreachable links
 - Indexes the YOURLS_url table when enabled
 - API based to avoid PHP script execution limitation (This can be time consuming)
 
