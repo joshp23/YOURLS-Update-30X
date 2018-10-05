@@ -37,3 +37,8 @@ $ curl --data "format=json&signature=0YOUR0API0KEY&action=u301&domain=example.co
 ### Note:
 With a YOURLS URL database of roughly 450 links, this process took roughly 3 minutes. Appx. 10 seconds was shaved off of this time with the table index. Please verify that it has been created before attempting large checks.
 
+### Support Dev
+All of my published code is developed and maintained in spare time, if you would like to support development of this, or any of my published code, I have set up a Liberpay account for just this purpose. Thank you.
+
+<noscript><a href="https://liberapay.com/joshu42/donate"><img alt="Donate using Liberapay" src="https://liberapay.com/assets/widgets/donate.svg"></a></noscript>
+
